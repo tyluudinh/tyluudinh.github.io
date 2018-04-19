@@ -1,14 +1,20 @@
 {
-  "main.css": "static/css/main.249eec18.css",
-  "main.css.map": "static/css/main.249eec18.css.map",
-  "main.js": "static/js/main.873d01b1.js",
-  "main.js.map": "static/js/main.873d01b1.js.map",
+  "main.css": "static/css/main.5f4bf4f0.css",
+  "main.css.map": "static/css/main.5f4bf4f0.css.map",
+  "main.js": "static/js/main.b46ddc08.js",
+  "main.js.map": "static/js/main.b46ddc08.js.map",
+  "static/media/Quy-Dinh.pdf": "static/media/Quy-Dinh.48e1e600.pdf",
   "static/media/banner-2.png": "static/media/banner-2.53932ad9.png",
   "static/media/banner-3.png": "static/media/banner-3.ba37e294.png",
   "static/media/banner-4.png": "static/media/banner-4.2471bb03.png",
   "static/media/banner-5.png": "static/media/banner-5.993273b0.png",
   "static/media/banner-6.png": "static/media/banner-6.76e02eed.png",
+  "static/media/banner-7.png": "static/media/banner-7.b99b7288.png",
   "static/media/banner.png": "static/media/banner.36cdf7a8.png",
+  "static/media/chinh-sach-cong-dong.pdf": "static/media/chinh-sach-cong-dong.c762b97c.pdf",
+  "static/media/chosen-item.png": "static/media/chosen-item.aa714237.png",
+  "static/media/dieu-khoan.pdf": "static/media/dieu-khoan.4c179f0c.pdf",
   "static/media/guide-screen.png": "static/media/guide-screen.0e43ee9f.png",
-  "static/media/loading.svg": "static/media/loading.d00c6722.svg"
+  "static/media/loading.svg": "static/media/loading.d00c6722.svg",
+  "static/media/vatpham_1.png": "static/media/vatpham_1.15f2b1a6.png"
 }
