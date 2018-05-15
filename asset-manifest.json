@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.3d172522.css",
-  "main.css.map": "static/css/main.3d172522.css.map",
-  "main.js": "static/js/main.1c6f2436.js",
-  "main.js.map": "static/js/main.1c6f2436.js.map",
+  "main.css": "static/css/main.6d6f9b9c.css",
+  "main.css.map": "static/css/main.6d6f9b9c.css.map",
+  "main.js": "static/js/main.d9453164.js",
+  "main.js.map": "static/js/main.d9453164.js.map",
   "static/media/1.jpg": "static/media/1.829089c7.jpg",
   "static/media/19.jpg": "static/media/19.f0e624de.jpg",
   "static/media/22.jpg": "static/media/22.0dfede35.jpg",
@@ -23,6 +23,7 @@
   "static/media/lg.ttf?n1z373": "static/media/lg.4e2e7c51.ttf",
   "static/media/lg.woff?n1z373": "static/media/lg.9b04a735.woff",
   "static/media/loading.svg": "static/media/loading.d00c6722.svg",
+  "static/media/placehodler.jpg": "static/media/placehodler.e0a8828a.jpg",
   "static/media/shapes-big.png": "static/media/shapes-big.f7cdaf55.png",
   "static/media/shapes-small.png": "static/media/shapes-small.b879fb3e.png"
 }
